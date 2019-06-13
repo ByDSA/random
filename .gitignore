@@ -1,5 +1,14 @@
-# Ignore Gradle project-specific cache directory
 .gradle
-
-# Ignore Gradle build output directory
 build
+gradlew
+gradlew.bat
+*.gitignore
+/bin/
+/.settings
+/.project
+/.classpath
+/screens
+*.sh
+/out
+*.iml
+/.idea
