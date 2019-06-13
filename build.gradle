@@ -34,8 +34,8 @@ jar {
     }
 	
 	doLast {
-		moveLib("${projectDir}/..");
-		clear();
+		//moveLib("${projectDir}/..");
+		//clear();
     }
 
     baseName project.baseName
