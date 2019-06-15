@@ -1,12 +1,12 @@
 language: java
 install: true
 
-jdk: oraclejdk7
+jdk: oraclejdk8
 
 notifications:
   email: false
 
-sudo: false
+sudo: required
 
 script:
   - ./gradlew build --scan -s
