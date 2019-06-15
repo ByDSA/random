@@ -9,26 +9,26 @@ Librería Java de utilidades en el ámbito de la aleatoriedad
 La idea del Target es asignarle un valor de superficie superficie para que luego el PackTarget, compuesto de Target, lance un 'dart' a la superficie formada por todos los Target que contiene. El Target alcanzado por el 'dart' será el escogido aleatoriamente.
 
 ### Download
-Gradle:
-- Add Repository:
+- Gradle:
+Add Repository:
 ```gradle
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ```
 
-- Add Dependency:
+Add Dependency:
 ```gradle
 dependencies {
   implementation 'com.github.ByDSA:random:1.0'
 }
 ```
 
-Maven:
-- Add Repository:
+- Maven:
+Add Repository:
 ```xml
 <repositories>
 	<repository>
@@ -38,7 +38,7 @@ Maven:
 </repositories>
 ```
 
-- Add Dependency:
+Add Dependency:
 ```xml
 <dependency>
 	<groupId>com.github.ByDSA</groupId>
@@ -46,15 +46,15 @@ Maven:
 	<version>1.0</version>
 </dependency>
 ```
-[random 1.0 jar download](https://github.com/ByDSA/random/releases/download/1.0/dsa-random-1.0.jar) are available from Github Releases.
+[random 1.0 jar](https://github.com/ByDSA/random/releases/download/1.0/dsa-random-1.0.jar) download are available from Github Releases.
 
 ### Source Code
 ```sh
-git clone https://github.com/ByDSA/random
+$ git clone https://github.com/ByDSA/random
 ```
 
 or
 
 ```sh
-git clone https://gitlab.com/danisales/random
+$ git clone https://gitlab.com/danisales/random
 ```
