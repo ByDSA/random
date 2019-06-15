@@ -1,0 +1,11 @@
+language: java
+
+gradle assemble
+gradle check
+
+jdk: oraclejdk7
+
+notifications:
+  email: false
+
+sudo: false

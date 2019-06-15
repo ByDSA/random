@@ -46,7 +46,9 @@ Add Dependency:
 	<version>1.0</version>
 </dependency>
 ```
-[random 1.0 jar](https://github.com/ByDSA/random/releases/download/1.0/dsa-random-1.0.jar) download are available from Github Releases.
+[random 1.0 jar](https://github.com/ByDSA/random/releases/download/1.0/dsa-random-1.0.jar) download are available from this project's Releases.
+
+[![Build Status](https://travis-ci.org/ByDSA/random.svg?branch=master)](https://travis-ci.org/ByDSA/random)
 
 ### Source Code
 ```sh
