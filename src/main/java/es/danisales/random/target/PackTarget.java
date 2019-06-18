@@ -1,4 +1,4 @@
-package dsa.random.target;
+package es.danisales.random.target;
 
 import java.security.SecureRandom;
 import java.util.ArrayList;

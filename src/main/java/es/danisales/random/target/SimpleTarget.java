@@ -1,4 +1,4 @@
-package dsa.random.target;
+package es.danisales.random.target;
 
 public class SimpleTarget implements Target {
     private long surface = 1;

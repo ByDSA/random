@@ -1,6 +1,6 @@
-package dsa.random.target;
+package es.danisales.random.target;
 
-import dsa.utils.Bean;
+import es.danisales.utils.Bean;
 
 import java.util.Objects;
 

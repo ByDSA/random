@@ -1,4 +1,4 @@
-package dsa.random;
+package es.danisales.random;
 
 import java.util.Random;
 

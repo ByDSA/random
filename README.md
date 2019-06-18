@@ -1,12 +1,12 @@
 # random
 
-Librería Java de utilidades en el ámbito de la aleatoriedad
+A Java library for random
 
 # Features
-
+- Random Picker:
 ## Targets
 
-La idea del Target es asignarle un valor de superficie superficie para que luego el PackTarget, compuesto de Target, lance un 'dart' a la superficie formada por todos los Target que contiene. El Target alcanzado por el 'dart' será el escogido aleatoriamente.
+La idea del Target es asignarle un valor de superficie  para que luego el PackTarget, compuesto de Target, lance un 'dart' a la superficie formada por todos los Target que contiene. El Target alcanzado por el 'dart' será el escogido aleatoriamente.
 
 ### Download
 - Gradle:
@@ -46,7 +46,7 @@ Add Dependency:
 	<version>1.0</version>
 </dependency>
 ```
-[random 1.0 jar](https://github.com/ByDSA/random/releases/download/1.0/dsa-random-1.0.jar) download are available from this project's Releases.
+[random 1.0 jar](https://github.com/ByDSA/random/releases/download/1.0/es.dsa-random-1.0.jar) download are available from Github project's Releases.
 
 [![Build Status](https://travis-ci.org/ByDSA/random.svg?branch=master)](https://travis-ci.org/ByDSA/random)
 

@@ -1,4 +1,4 @@
-package dsa.random.target;
+package es.danisales.random.target;
 
 public interface Target {
 	Target pickDart(long dart);

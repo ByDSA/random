@@ -1,5 +1,5 @@
-import dsa.random.target.SimpleTarget;
-import dsa.random.ValueGenerator;
+import es.danisales.random.target.SimpleTarget;
+import es.danisales.random.ValueGenerator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
